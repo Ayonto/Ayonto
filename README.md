@@ -1,4 +1,4 @@
-Hi 👋 My name is S.I.Ayonto
+Hi 👋 I'm S.I.Ayonto
 ===========================
 
 Student | CSE | BRAC UNIVERSITY

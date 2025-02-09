@@ -3,7 +3,7 @@ Hi 👋 I'm S.I.Ayonto
 
 Student | CSE | BRAC UNIVERSITY
 -------------------------------
-
+* 📑 I’m currently learning - Machine Learning; course - Machine Learning Specialization
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [s.i.ayonto@gmail.com](mailto:s.i.ayonto@gmail.com)
 

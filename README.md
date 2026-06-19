@@ -1,9 +1,9 @@
-Hi 👋 I'm S.I.Ayonto
+Hi 👋 I'm MD. SHAKIBUL ISLAM | A.K.A - S.I.Ayonto
 ===========================
 
 Student | CSE | BRAC UNIVERSITY
 -------------------------------
-* 📑 I’m currently interested in NLP - LSTM, GRU, Transformer architecture 
+* 📑 Interested in NLP - LLM, LSTM, Transformer architecture 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [s.i.ayonto@gmail.com](mailto:s.i.ayonto@gmail.com)
 

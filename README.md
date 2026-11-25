@@ -3,7 +3,7 @@ Hi 👋 I'm MD. SHAKIBUL ISLAM | a.k.a - S.I.Ayonto
 
 Student | CSE | BRAC UNIVERSITY
 -------------------------------
-* 📑 Currently doing research on Language Model Architechture, Asynchronous Training of Language Models
+* 📑 Currently doing research on Language Model Architechture, Efficient Training of LLMs
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [s.i.ayonto@gmail.com](mailto:s.i.ayonto@gmail.com)
 
